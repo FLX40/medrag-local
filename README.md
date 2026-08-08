@@ -135,7 +135,7 @@ Geplante Erweiterungen, an denen ich aktuell arbeite:
 
 ## 📬 Kontakt
 
-Fragen oder Feedback? Gerne über [GitHub Issues](https://github.com/BENUTZERNAME/medrag-local/issues) oder [LinkedIn-Profil verlinken].
+Fragen oder Feedback? Gerne über [GitHub Issues](https://github.com/BENUTZERNAME/medrag-local/issues).
 
 ---
 
