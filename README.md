@@ -9,6 +9,8 @@
 
 Ein Retrieval-Augmented-Generation-System (RAG), das medizinische Fragen auf Basis von über **1.900 wissenschaftlichen PubMed-Studien** beantwortet – mit Schwerpunkt auf pankreatogenem Diabetes (Typ 3c), aber Abdeckung aller Diabetesformen, Blutzucker, Insulintherapie, Insulinpumpen/CGM, Komplikationen und Ernährung. Bedienung über ein **Chat-Interface mit integriertem Befund-Upload (OCR)**. Der komplette Zyklus aus Suche, Kontext-Anreicherung und Antwortgenerierung läuft **vollständig lokal und offline**: keine Cloud-API, keine laufenden Kosten, volle Kontrolle über die Daten.
 
+![Screenshot der Startansicht](screenshot.png)
+
 ---
 
 ## Warum dieses Projekt
