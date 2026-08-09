@@ -137,7 +137,7 @@ Die App öffnet sich automatisch im Browser unter `http://localhost:8501`.
 
 ## Kontakt
 
-Fragen oder Feedback? Gerne über [GitHub Issues](https://github.com/FLX40/medrag-local/issues) oder [LinkedIn-Profil verlinken].
+Fragen oder Feedback? Gerne über [GitHub Issues](https://github.com/FLX40/medrag-local/issues)
 
 ---
 
