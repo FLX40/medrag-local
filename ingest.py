@@ -1,9 +1,13 @@
+import os
 from Bio import Entrez
 import chromadb
 import time
 
 Entrez.email = "englich.felix@gmail.com"
-Entrez.api_key = "ENTFERNT"
+# API-Key nicht im Code: vorher in der Konsole setzen, z. B. PowerShell:  $env:NCBI_API_KEY = "dein_key"
+# Ohne Key funktioniert es auch, nur mit weniger Anfragen pro Sekunde.
+if os.environ.get("NCBI_API_KEY"):
+    Entrez.api_key = os.environ["NCBI_API_KEY"]
 
 suchbegriffe_mit_kategorie = [
     # Typ 3c / pankreatogener Diabetes
